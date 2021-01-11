@@ -1,5 +1,7 @@
 # React Movie App
 
+https://github.com/nikkizol/react-workshop
+
 - Repository: `react-movie-app`
 - Type of Challenge: `Learning`
 - Duration: `take your time`
